@@ -4,11 +4,11 @@
 
 Me chamo Pedro Henrique Valente Guths, tenho 19 anos e sou natural de Porto Alegre - RS. Atualmente, estou no segundo semestre do curso de Informática Biomédica na Universidade Federal de Ciências da Saúde de Porto Alegre (UFCSPA).
 
-### 📞 Contato
+### Contato
 [Linkedin](https://www.linkedin.com/in/pedro-guths/)
 [Instagram](https://www.instagram.com/_guths/)
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
