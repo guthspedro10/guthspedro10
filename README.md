@@ -66,6 +66,6 @@ Me chamo Pedro Henrique Valente Guths, tenho 19 anos e sou natural de Porto Aleg
 
 ### 📊 Estatísticas
 
-"[![Pedros's GitHub stats](https://github-readme-stats.vercel.app/api?username=guthspedro10&theme=dark)](https://github.com/guthspedro10/github-readme-stats)"
+[![Pedros's GitHub stats](https://github-readme-stats.vercel.app/api?username=guthspedro10&theme=dark)](https://github.com/guthspedro10/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guthspedro10&theme=dark&layout=compact)
