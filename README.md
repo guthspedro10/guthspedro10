@@ -1,4 +1,4 @@
-# 💻🧬 Pedro Guths
+# 👨🏻‍💻 Pedro Guths
 
 **`Desenvolvedor Backend`**
 
