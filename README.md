@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Pedro Henrique Valente Guths, tenho 19 anos e sou natural de Porto Alegre - RS. Atualmente, estou no segundo semestre do curso de Informática Biomédica na Universidade Federal de Ciências da Saúde de Porto Alegre (UFCSPA).
+Me chamo Pedro Henrique Valente Guths, tenho 19 anos e sou natural de Porto Alegre - RS. Atualmente, estou no terceiro semestre do curso de Informática Biomédica na Universidade Federal de Ciências da Saúde de Porto Alegre (UFCSPA).
 
 ### Linguagens e Tecnologias
 
