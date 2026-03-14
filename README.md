@@ -90,7 +90,7 @@ I am currently in my **third semester** and interested in the intersection betwe
 
 ## 📫 Contact
 
-* LinkedIn: *(add your LinkedIn here)*
-* Email: *(add your email here)*
+* LinkedIn: *https://www.linkedin.com/in/pedro-guths/*
+* Email: *devguths@gmail.com*
 
 
