@@ -1,10 +1,21 @@
-# 👨🏻‍💻 Pedro Guths
+# 👨🏻‍💻 Hi, I'm Pedro
 
-**`Desenvolvedor Backend`**
+My name is **Pedro Henrique Valente Guths**, a **Biomedical Informatics undergraduate student at the Federal University of Health Sciences of Porto Alegre (UFCSPA)** in **Porto Alegre, Brazil**.
 
-Me chamo Pedro Henrique Valente Guths, tenho 20 anos e sou natural de Porto Alegre - RS. Atualmente, estou no terceiro semestre do curso de Informática Biomédica na Universidade Federal de Ciências da Saúde de Porto Alegre (UFCSPA).
+I am currently in my **third semester** and interested in the intersection between **biology, medicine, and computing**, especially in **bioinformatics and computational analysis of biological data**.
 
-### Linguagens e Tecnologias
+---
+
+## 🔬 Interests
+
+* Bioinformatics
+* Computational Biology
+* Biological Data Analysis
+* Software Development for Life Sciences
+
+---
+
+## 💻 Technologies & Tools
 
 <img 
     align="left" 
@@ -62,9 +73,23 @@ Me chamo Pedro Henrique Valente Guths, tenho 20 anos e sou natural de Porto Aleg
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
 
 
 <br/>
 <br/>
+---
+
+## 📫 Contact
+
+* LinkedIn: *(add your LinkedIn here)*
+* Email: *(add your email here)*
 
 
