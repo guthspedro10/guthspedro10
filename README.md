@@ -85,7 +85,7 @@ I am currently in my **third semester** and interested in the intersection betwe
 
 <br/>
 <br/>
-
+![My Skills](https://skillicons.dev/icons?i=java,html,css,git,github)
 ---
 
 ## 📫 Contact
