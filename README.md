@@ -29,6 +29,10 @@ I am currently in my third semester and pursuing a career as a **backend develop
 
 ---
 
+<img src="https://raw.githubusercontent.com/guthspedro10/guthspedro10/output/snake.svg" alt="Snake animation" />
+
+---
+
 ## 📫 Contact
 
 * LinkedIn: *https://www.linkedin.com/in/pedro-guths/*
