@@ -31,7 +31,7 @@ I am currently in my third semester and pursuing a career as a **backend develop
 
 ## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation"/>
+![snake animation](<img src="https://raw.githubusercontent.com/guthspedro10/guthspedro10/output/snake.svg" alt="Snake animation"/>)
 
 ---
 
