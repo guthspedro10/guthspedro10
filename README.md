@@ -73,14 +73,15 @@ I am currently in my **third semester** and interested in the intersection betwe
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img 
-    align="left" 
-    alt="GitHub" 
-    title="GitHub"
-    width="30px" 
-    style="padding-right: 10px; background-color: white; border-radius: 4px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>
+<span style="background-color:white; padding:4px; border-radius:4px; display:inline-block;">
+  <img 
+      align="left" 
+      alt="GitHub" 
+      title="GitHub"
+      width="30px"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+  />
+</span>
 
 
 <br/>
