@@ -78,8 +78,8 @@ I am currently in my **third semester** and interested in the intersection betwe
     alt="GitHub" 
     title="GitHub"
     width="30px"
-    style="padding-right:10px; filter: drop-shadow(0 0 0 white);"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"
 />
 
 
