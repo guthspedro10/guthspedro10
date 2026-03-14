@@ -20,6 +20,17 @@ I am currently in my third semester and pursuing a career as a **backend develop
 
 ---
 
+## 📊 GitHub Stats
+
+<div>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=guthspedro10&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guthspedro10&layout=compact&theme=tokyonight"/>
+</div>
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=guthspedro10&theme=tokyonight)
+
+---
+
 ## 📫 Contact
 
 * LinkedIn: *https://www.linkedin.com/in/pedro-guths/*
