@@ -17,7 +17,7 @@ I am currently in my **third semester** and interested in the intersection betwe
 
 ## 💻 Technologies & Tools
 
-![My Skills](https://skillicons.dev/icons?i=java,javascript,python,c,mongodb,sql,git,github)
+![My Skills](https://skillicons.dev/icons?i=java,javascript,python,c,mongodb,mysql,git,github)
 
 ---
 
