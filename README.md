@@ -1,17 +1,16 @@
 # 👨🏻‍💻 Hi, I'm Pedro
 
-My name is **Pedro Henrique Valente Guths**, a **Biomedical Informatics undergraduate student at the Federal University of Health Sciences of Porto Alegre (UFCSPA)** in **Porto Alegre, Brazil**.
+My name is **Pedro Henrique Valente Guths**, a **Biomedical Informatics undergraduate student at the Federal University of Health Sciences of Porto Alegre (UFCSPA)** in **Porto Alegre, Rio Grande do Sul, Brazil**.
 
-I am currently in my third semester and pursuing a career as a **backend developer**, with a strong interest in the intersection between **biology, medicine, and computing**, particularly in **bioinformatics and the computational analysis of biological data**.
+I am currently in my third semester and pursuing a career as a **backend developer**, with a strong interest in the intersection between **biology, biomedicine, and computing**, particularly in **bioinformatics and the computational analysis of biological data**.
 
 ---
 
 ## 🔬 Interests
 
-* Bioinformatics
-* Computational Biology
+* Bioinformatics and computational biology
 * Biological Data Analysis
-* Software Development for Life Sciences
+* Backend development applied to healthcare and biomedical research
 
 ---
 
