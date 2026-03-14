@@ -2,7 +2,7 @@
 
 My name is **Pedro Henrique Valente Guths**, a **Biomedical Informatics undergraduate student at the Federal University of Health Sciences of Porto Alegre (UFCSPA)** in **Porto Alegre, Brazil**.
 
-I am currently in my **third semester** and interested in the intersection between **biology, medicine, and computing**, especially in **bioinformatics and computational analysis of biological data**.
+I am currently in my **third semester** and interested in the intersection between **biology, medicine and computing**, especially in **bioinformatics and computational analysis of biological data**.
 
 ---
 
