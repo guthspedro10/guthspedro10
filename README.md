@@ -78,7 +78,7 @@ I am currently in my **third semester** and interested in the intersection betwe
     alt="GitHub" 
     title="GitHub"
     width="30px" 
-    style="padding: 2px; padding-right: 10px; background-color: white; border-radius: 4px;"
+    style="padding-right: 10px; background-color: white; border-radius: 4px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
 
