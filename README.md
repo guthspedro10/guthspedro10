@@ -29,7 +29,9 @@ I am currently in my third semester and pursuing a career as a **backend develop
 
 ---
 
-<img src="https://raw.githubusercontent.com/guthspedro10/guthspedro10/output/snake.svg" alt="Snake animation" />
+## 🐍 Contribution Snake
+
+![snake animation](https://github.com/pedroguths/pedroguths/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
