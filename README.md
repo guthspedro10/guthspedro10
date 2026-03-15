@@ -22,7 +22,7 @@ I am currently in my third semester and pursuing a career as a **backend develop
 
 ## ➕ Currently Learning
 
-![My Skills](https://skillicons.dev/icons?i=mysql)
+![Learning](https://skillicons.dev/icons?i=mysql)
 
 ---
 
