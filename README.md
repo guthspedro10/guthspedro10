@@ -23,8 +23,8 @@ I am currently in my third semester and pursuing a career as a **backend develop
 ## 📊 GitHub Stats
 
 <div>
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=guthspedro10&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=guthspedro10&layout=compact&theme=tokyonight"/>
+  <img height="170" src="https://stats.vercel.app/api?username=guthspedro10&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://stats.vercel.app/api/top-langs/?username=guthspedro10&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
