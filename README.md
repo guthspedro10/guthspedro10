@@ -22,8 +22,10 @@ I am currently in my third semester and pursuing a career as a **backend develop
 
 ## 📊 GitHub Stats
 
-![stats](https://stats.vercel.app/api?username=guthspedro10&show_icons=true&theme=tokyonight)
-![langs](https://stats.vercel.app/api/top-langs/?username=guthspedro10&layout=compact&theme=tokyonight)
+<div> 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=guthspedro10&show_icons=true&theme=tokyonight"/> 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guthspedro10&layout=compact&theme=tokyonight"/> 
+</div>
 
 ---
 
