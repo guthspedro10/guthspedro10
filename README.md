@@ -15,9 +15,10 @@ I am currently in my third semester and pursuing a career as a **backend develop
 
 ---
 
-## 💻 Languages and Tools
+## 💻 Languages and Technologies
 
-![Learning](https://skillicons.dev/icons?i=java,js,python,mysql,git,github)
+![Learning](https://skillicons.dev/icons?i=java,js,python)
+![Learning](https://skillicons.dev/icons?i=mysql,react,nodejs,mongo,git,github)
 
 ---
 
