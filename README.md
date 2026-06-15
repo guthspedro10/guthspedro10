@@ -21,7 +21,7 @@ I am currently in my third semester and pursuing a career as a **backend develop
 
 ## 📖 Familiar with
 
-![Learning](https://skillicons.dev/icons?i=nodejs,react,mongo)
+![Learning](https://skillicons.dev/icons?i=react,nodejs,mongo)
 
 ---
 
