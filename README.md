@@ -28,15 +28,6 @@ I am currently in my fourth semester and pursuing a career as a **backend develo
   <img height="170em" src="https://github-readme-stats-liart-theta-81.vercel.app/api?username=guthspedro10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/> 
   <img height="170em" src="https://github-readme-stats-liart-theta-81.vercel.app/api/top-langs/?username=guthspedro10&layout=compact&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/> 
 </div>
- 
-
----
-
-<div align-center>
-  
-<img src="https://raw.githubusercontent.com/guthspedro10/guthspedro10/output/snake.svg" alt="Snake animation"/>
-
-</div>
 
 ---
 
