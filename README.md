@@ -4,8 +4,6 @@ My name is **Pedro Henrique Valente Guths**, a **Biomedical Informatics undergra
 
 I am currently in my fourth semester and pursuing a career as a **backend developer**, with a strong interest in the intersection between **biology, biomedicine, and computing**, particularly in **bioinformatics and the computational analysis of biological data**.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-808080?style=for-the-badge)](https://guthspedro10.github.io/Portfolio)
-
 ---
 
 ## 🔬 Interests
