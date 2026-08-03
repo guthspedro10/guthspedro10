@@ -32,6 +32,6 @@ I am currently in my fourth semester and pursuing a career as a **backend develo
 ## 📫 Contact
 
 * LinkedIn: *https://www.linkedin.com/in/pedro-guths/*
-* Email: *devguths@gmail.com*
+* Email: *guthspedro@gmail.com*
 
 
