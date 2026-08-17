@@ -4,11 +4,7 @@ My name is **Pedro Henrique Valente Guths**, a **Biomedical Informatics undergra
 
 I am currently in my fourth semester and pursuing a career as a **backend developer**.
 
-<p align="left">
-  <a href="https://guthspedro10.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white&color=0d1117" alt="Portfolio" />
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=github&logoColor=white)](https://guthspedro10.github.io/Portfolio/)
 
 ---
 
