@@ -4,6 +4,8 @@ My name is **Pedro Henrique Valente Guths**, a **Biomedical Informatics undergra
 
 I am currently in my fourth semester and pursuing a career as a **backend developer**.
 
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=guthspedro10&repo=Portfolio&theme=radial)](https://guthspedro10.github.io/Portfolio/)
+
 ---
 
 ## 🔬 Interests
