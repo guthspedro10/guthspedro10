@@ -23,9 +23,19 @@ I am currently in my fourth semester and pursuing a career as a **backend develo
 
 ---
 
-## 💻 Tech Stack
+## 💻 Backend
 
-![Learning](https://skillicons.dev/icons?i=java,spring,python,mysql,postman,git,github)
+![Languages](https://skillicons.dev/icons?i=java,spring,python,nodejs)
+
+---
+
+## 💾 Database
+![Databases](https://skillicons.dev/icons?i=mysql,mongo)
+
+---
+
+## ⚙️ Tools 
+![Tools](https://skillicons.dev/icons?i=postman,git,github)
 
 ---
 
