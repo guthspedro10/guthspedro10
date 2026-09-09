@@ -8,6 +8,13 @@ I am currently in my fourth semester and pursuing a career as a **backend develo
 
 ---
 
+## 📫 Contact
+
+* **LinkedIn:** https://www.linkedin.com/in/pedro-guths/
+* **Email:** [guthspedro@gmail.com](mailto:guthspedro@gmail.com)
+
+---
+
 ## 🔬 Interests
 
 * Bioinformatics and computational biology
@@ -31,7 +38,4 @@ I am currently in my fourth semester and pursuing a career as a **backend develo
 
 ---
 
-## 📫 Contact
 
-* **LinkedIn:** https://www.linkedin.com/in/pedro-guths/
-* **Email:** [guthspedro@gmail.com](mailto:guthspedro@gmail.com)
