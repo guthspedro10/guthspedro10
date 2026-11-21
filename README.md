@@ -21,7 +21,7 @@ I am currently in my fourth semester and pursuing a career as a **backend develo
 
 ## 💻 Tech Stack
 
-![Languages](https://skillicons.dev/icons?i=java,spring,python,mysql,postman,git,github)
+![Languages](https://skillicons.dev/icons?i=java,spring,python,mysql,supabase,postman,git,github)
 
 ---
 
